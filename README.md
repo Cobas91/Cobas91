@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cobas91&show_icons=true&locale=en" alt="cobas91" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobas91&" alt="cobas91" /></p>
+<a href="https://app.daily.dev/Cobas"><img src="https://api.daily.dev/devcards/20019e661db645bca609418af468d2ea.png?r=9mw" width="400" alt="Stephan Gärtner's Dev Card"/></a>
+
